@@ -49,7 +49,6 @@ The interface is designed to be intuitive and mouse-free friendly.
 | `L` | Forward **5 sec** |
 | `←` / `→` | Seek **5 sec** |
 | `F` | Toggle Fullscreen |
-| `M` | Mute / Unmute |
 | `I` | Toggle **Incognito Mode** |
 
 ## ⚙️ Configuration
@@ -70,9 +69,8 @@ As a cybersecurity enthusiast project, data minimization is a core principle:
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Distributed under the MIT License.
 ---
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/YOUR_USERNAME">Your Name</a></sub>
+  <sub>Built by <a href="https://github.com/rxxddy">rxxddy</a></sub>
 </div>
