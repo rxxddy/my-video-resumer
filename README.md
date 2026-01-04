@@ -45,11 +45,10 @@ The interface is designed to be intuitive and mouse-free friendly.
 | Key | Action |
 | :--- | :--- |
 | `Space` / `K` | Play / Pause |
-| `J` | Rewind **5 sec** |
-| `L` | Forward **5 sec** |
-| `←` / `→` | Seek **5 sec** |
+| `J` | Rewind **10 sec** |
+| `L` | Forward **10 sec** |
+| `←` / `→` | Seek **10 sec** |
 | `F` | Toggle Fullscreen |
-| `I` | Toggle **Incognito Mode** |
 
 ## ⚙️ Configuration
 
