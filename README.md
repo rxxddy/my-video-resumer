@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/128/EE5325/FFFFFF?text=LMR" alt="Local Media Resumer Logo" width="100" height="100">
+  <img src="https://via.placeholder.com/128/EE5325/FFFFFF?text=LMR](https://raw.githubusercontent.com/rxxddy/my-video-resumer/refs/heads/main/icon128.png" alt="Local Media Resumer Logo" width="100" height="100">
   
   # Local Media Resumer
   
