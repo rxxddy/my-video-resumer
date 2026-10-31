@@ -97,7 +97,7 @@ function loadVideoList() {
 
             const progressSpan = document.createElement('span');
             progressSpan.className = 'video-progress';
-            // Убрал SVG иконку часов отсюда, оставил только время
+            // Removed the clock SVG icon here, kept only the time
             progressSpan.textContent = formattedTime; 
 
             infoDiv.appendChild(titleSpan);
